@@ -1,0 +1,13 @@
+body {
+    border: 0;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    font-family:'Courier New', Courier, monospace
+}
+
+.aesthetic-clock{
+    color:palevioletred;
+    margin: auto;
+    font-size: 30rem;
+}
