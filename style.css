@@ -1,13 +1,15 @@
 body {
     border: 0;
     margin: 0;
+    background-color: black;
     height: 100vh;
     display: flex;
     font-family:'Courier New', Courier, monospace
 }
 
 .aesthetic-clock{
-    color:palevioletred;
+    color:oldlace;
     margin: auto;
-    font-size: 30rem;
+    font-size: 20rem;
+    font-weight: 900;
 }
